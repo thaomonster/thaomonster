@@ -4,6 +4,14 @@ My name is Thao Ma and I am a junior front-end software developer. English is my
 
 🌱 I’m currently learning TypeScript
 
+<p>
+  Let's connect and chat! Open to anything under the sun.
+  <p>
+    <a href="https://www.linkedin.com/in/thao-ma/" alt="Linkedin"><img src="linkedin-box-fill.png"></a>
+    <a href="https://alumni.turing.io/alumni/thao-ma" alt="My Portfolio"><img src="external-link-line.png"></a>
+  </p>
+</p>
+
 ---
 
 ## &#128295; Tech skills
@@ -21,16 +29,6 @@ My name is Thao Ma and I am a junior front-end software developer. English is my
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
----
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/thao-ma/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="https://alumni.turing.io/alumni/thao-ma" alt="My Portfolio"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
 </p>
 
 <!--
