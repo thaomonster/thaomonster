@@ -2,7 +2,7 @@
 
 My name is Thao Ma and I am a junior front-end software developer. English is my second language and it is one of the main reasons that motivated me to be a software developer. I want to build software that is accessible and my goal is to create software or work with a company that makes products for people who are underrepresented, especially those who are fellow second language learners. I am excited to bring skills such as team collaboration, project management and agile workflow to my new career as a software developer.
 
-🌱 I’m currently learning TypeScript
+🌱 I’m currently learning `TypeScript`
 
 <p>
   Let's connect and chat! Open to anything under the sun.
@@ -31,13 +31,11 @@ My name is Thao Ma and I am a junior front-end software developer. English is my
   <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
+---
+## &#128200; GitHub Stats
+![Thao's github stats](https://github-readme-stats.vercel.app/api?username=thaomonster&theme=nord&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaomonster&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **thaomonster/thaomonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
