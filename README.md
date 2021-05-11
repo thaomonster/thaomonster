@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thao Ma and I am a junior front-end software developer. English is my second language and it is one of the main reasons that motivated me to be a software developer. I want to build software that is accessible and my goal is to create software or work with a company that makes products for people who are underrepresented, especially those who are fellow second language learners. I am excited to bring skills such as team collaboration, project management and agile workflow to my new career as a software developer.
+My name is Thao Ma and I am a junior front-end software engineer. English is my second language and it is one of the main reasons that motivated me to be a software developer. I want to build software that is accessible and my goal is to create software or work with a company that makes products for people who are underrepresented, especially those who are fellow second language learners. I am excited to bring skills such as team collaboration, project management and agile workflow to my new career as a software engineer.
 
 🌱 I’m currently learning `TypeScript` & `AWS`
 
